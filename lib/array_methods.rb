@@ -24,6 +24,9 @@ def using_first(array)
 end
 
 def using_last(array)
+  array.last
+  last_element = array.last
+  return last_element
 
 end
 
