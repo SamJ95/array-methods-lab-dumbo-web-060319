@@ -3,7 +3,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  sorted_array = array.sort(element)
+  array.sort
+  sorted_array = array.sort
   return sorted_array
 
 end
