@@ -17,6 +17,9 @@ def using_reverse(array)
 end
 
 def using_first(array)
+  array.first
+  first_element = array.first
+  return first_element
 
 end
 
