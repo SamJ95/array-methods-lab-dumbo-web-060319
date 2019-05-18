@@ -11,6 +11,8 @@ end
 
 def using_reverse(array)
   array.reverse
+  reversed_array = array.reverse
+  return reversed_array
 
 end
 
